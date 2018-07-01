@@ -10,7 +10,6 @@ public class CF797C {
 
         final Scanner sc = new Scanner(System.in);
 
-
         final LinkedList<Character> s = getS(sc);
         final Stack<Character> t = new Stack<>();
 
